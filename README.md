@@ -1,7 +1,9 @@
-### Hi there 👋
+## Hi, I'm meteorlxy :wave:
 
-- I'm an open source enthusiast and have some projects like [vssue](https://github.com/meteorlxy/vssue)
-- I’m a member of [@vuejs](https://github.com/vuejs) and currently working on [vuepress-next](https://github.com/vuepress/vuepress-next)
+- Open Source Enthusiast
+- Frontend Developer
+- Member of [@vuejs](https://github.com/vuejs)
 
-![](https://github-readme-stats.vercel.app/api?username=meteorlxy&show_icons=true&icon_color=0366d6&text_color=24292e&bg_color=ffffff&hide_title=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=meteorlxy&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=meteorlxy&theme=dark&layout=compact)'
+
+![](https://github-readme-stats.vercel.app/api?username=meteorlxy&theme=dark&show_icons=true)
