@@ -1,9 +1,6 @@
 ## Hi, I'm meteorlxy :wave:
 
+About me:
 - Open Source Enthusiast
 - Full-Stack Developer
-- Member of [@vuejs](https://github.com/vuejs)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=meteorlxy&theme=dark&layout=compact)'
-
-![](https://github-readme-stats.vercel.app/api?username=meteorlxy&theme=dark&show_icons=true)
+- Member of [@vuejs](https://github.com/vuejs) - [vuepress](https://github.com/vuepress/core) & [vitepress](https://github.com/vuejs/vitepress)
